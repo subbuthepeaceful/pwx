@@ -1,0 +1,7 @@
+development:
+  adapter: mysql2
+  database: pwxplatform_development
+  host: localhost
+  username: root
+
+
